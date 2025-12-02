@@ -276,7 +276,7 @@
     <section class="container hero" id="start">
       <div>
         <h1 class="hero-title">
-          <span>Vijay Bhargav</span> Enterprises.
+          <span>Raghu</span> Enterprises.
         </h1>
         <p class="hero-subtitle">
           Clean, minimal starter layout ready for you to plug your own content,
